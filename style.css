@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img{
+    position: absolute;
+    width: 100%;
+    top: -200px;
+    }
+
+.header-text{
+    font-size: 36pt;
+    text-align: center;
+    font-family: "Marck Script", cursive;
+    font-style: oblique;
+}
+
+.main-text{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 15%;
+    font-size: 16pt;
+    font-family: cursive;
+}
+
+.conclusion-text{
+    margin-top: 8%;
+    margin-bottom: 8%;
+    margin-left: 10%;
+    margin-right: 15%;
+    font-size: 16pt;
+    font-family: "LXGW WenKai TC", cursive;
+}
+
+.link-text{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 15%;
+    padding-bottom: 10%;
+    font-size: 16pt;
+    font-family: cursive; 
+}
